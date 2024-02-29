@@ -13,14 +13,9 @@ A Project Development is a multiphase process in which each and every process ar
 6.Testing
 7.Project Presentation
 8.Writing a Research Paper
-Let us look into the steps one by one.
 
-Step 1- Team Formation Phase: Creating a Dynamic Team
-Team formation for a final year project is a crucial aspect that can significantly impact the success and efficiency of the project. In the final year, students often have diverse academic backgrounds, skills, and interests. Therefore, forming a well-balanced team becomes essential to leverage the strengths of each member and address any potential weaknesses.
+Project Synopsys for Library Management System
+A Library Management System (LMS) is a software application that simplifies and automates the operations of libraries. It is a complete system for managing library duties such as purchases, member management, monitoring, storing, and circulation. The primary objective of an LMS is to properly organize and manage the resources available in a library, making it easier for librarians to conduct everyday operations and create a user-friendly experience for users.
 
-In Our project as we will be exploring about web application for Library Management system so we will be required below skill sets.
-
-1.Front end Developer
-2.Back end Developer
-3.Tester
-4.Devops Developer
+Technology Used:
+Here we are developing a Library Management System (LMS) using HTML, MySQL, PHP, and Java involves a structured methodology.
